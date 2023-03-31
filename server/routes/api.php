@@ -1,6 +1,6 @@
 <?php
 use App\Http\Controllers\Form\IndexController;
-use App\Http\Controllers\form\StoreController;
+use App\Http\Controllers\Form\StoreController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
